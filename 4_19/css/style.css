@@ -1,0 +1,15 @@
+body{font-size: 20px;}
+.item4{color: red;}
+.item5{color: yellowgreen;}
+.item3:hover{background-color: black; color: white;}
+h1{font-family: 'Dokdo', cursive;}
+
+.fonttest1{color: greenyellow; font-size: 1.5em;}
+.fonttest2{direction: rtl;}
+.fonttest3{letter-spacing: 0.5ch;}
+.fonttest5{line-height: 1.5ch;}
+.fonttest6{text-align: center;}
+.fonttest7{text-decoration: underline; text-decoration-color: red; text-decoration-line: 3px;}
+.fonttest8{text-indent: 2ch;}
+.fonttest9{text-shadow:  2px -2px 3px black;}
+.fonttest10{text-transform: lowercase;}
